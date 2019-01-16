@@ -1,4 +1,4 @@
-<p>Metadata for the dataset of the cemetery Zvejnieki:</p>
+Metadata for the dataset of the cemetery Zvejnieki:
 
 
 Location:
