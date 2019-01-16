@@ -12,7 +12,7 @@ Source/Literature:
 - Zagorskis 1987: F. Zagorskis, Zvehnieku akmens Laikmeta Kaplauks (Riga 1987).
 
 ## Explaining abbreviations and categories:
-grab_ID
+### grab_ID
 -ID for the grave as context for this data set
 -one grave can have multiple burials (bestattung)
 bestattungs_ID
