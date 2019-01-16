@@ -16,4 +16,4 @@ tbd
 check metadata file 
 
 ## Other comments:
-table relations: Tab1 -> 1:n -> Tab2 -> 1:n -> Tab3
+table relations: Tab1 <- 1:n -> Tab2 <- 1:n -> Tab3
