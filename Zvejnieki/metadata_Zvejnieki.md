@@ -6,17 +6,17 @@ Zvejnieki, Latvia. The site is located near the Burtnieks lake. Lat59.9655, Lon2
 ## Chronology:
 polychron, from Mesolithic to early Neolithic
 
-Source/Literature:
+## Source/Literature:
 - Grünberg 2000: J.M. Grünberg, Mesolithische Bestattungen in Europa. Ein Beitrag zur vergleichenden Gräberkunde. IA 40 (Rahden 2000).
 - Larsson/Zagorska 2006: L. Larsson/I. Zagorska (Ed.), Back to the Origin. New Research in the Mesolithic-Neolithic Zvejnieki Cemetery and Environment, Northern Latvia (Lund 2006).
 - Zagorskis 1987: F. Zagorskis, Zvehnieku akmens Laikmeta Kaplauks (Riga 1987).
 
 ## Explaining abbreviations and categories:
-### grab_ID
--ID for the grave as context for this data set
--one grave can have multiple burials (bestattung)
+grab_ID
+- ID for the grave as context for this data set
+- one grave can have multiple burials (bestattung)
 bestattungs_ID
--ID for the individual burials
+- ID for the individual burials
 grabnr_literatur
 - Grave identification from literature
 anzahl_bestattungen
