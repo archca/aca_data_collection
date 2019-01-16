@@ -5,7 +5,7 @@ Zvejnieki cemetery
 
 Location:
   Zvejnieki, Latvia. Site is located near the Burtnieks lake. 
-  GoogleMaps search: Lat59.9655, Lon22.9558
+  Lat59.9655, Lon22.9558 	(GoogleMaps, not precise!)
   
 Chonology:
   polychron, from Mesolithic to early Neolithic
