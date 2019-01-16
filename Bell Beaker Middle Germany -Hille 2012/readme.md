@@ -7,7 +7,7 @@ Middle Germany. Diverse burial places.
 Endneolithic, Bell Beaker
 
 ## Source/Literature:
-- Hille 2012: A. Hille, Die Glockenbecherkultur in Mitteldeutschland. Veröffentlichungen des Landesamtes für Denkmalpflege und Archäologie Sachsen-Anhalt – Landesmuseum für Vorgeschichte 66 (Halle 2012).0).
+- Hille 2012: A. Hille, Die Glockenbecherkultur in Mitteldeutschland. Veröffentlichungen des Landesamtes für Denkmalpflege und Archäologie Sachsen-Anhalt – Landesmuseum für Vorgeschichte 66 (Halle 2012).
 
 ## Licence:
 tbd
