@@ -12,53 +12,53 @@ polychron, from Mesolithic to early Neolithic
 - Zagorskis 1987: F. Zagorskis, Zvehnieku akmens Laikmeta Kaplauks (Riga 1987).
 
 ## Explaining abbreviations and categories:
-grab_ID
+### grab_ID
 - ID for the grave as context for this data set
 - one grave can have multiple burials (bestattung)
-bestattungs_ID
+### bestattungs_ID
 - ID for the individual burials
-grabnr_literatur
+### grabnr_literatur
 - Grave identification from literature
-anzahl_bestattungen
+### anzahl_bestattungen
 - Number of burials in one grave
-laenge_, breite_ und tiefe_grabgrube
+### laenge_, breite_ und tiefe_grabgrube
 - Length, width and depth of the grave pit
-garbbau
+### garbbau
 - Mentions features connected to the grave and maybe funeral ceremony
 - Examples: charcoal in the pit filling or stone settings
-stoerung/erhaltung
+### stoerung/erhaltung
 - not mentioned in the literature 
 - the degree of disturbance (dislocation of and partial missing  bones) of the burial -> not necessarily intentional disturbance but maybe decay
-biologisches_geschlecht
+### biologisches_geschlecht
 - biological sex, if determined
 - m = male; w = female; unbest = unbestimmt (undefined)
-alter
+### alter
 - anthropological categories of age, if determined
 - erwachsen = late juvenil to senil
-lage
+### lage
 - position of the individual
 - Rueckenstrecker = positioned outstretched on its back; Bauchstrecker = positioned outstretched on its belly; linker/rechter Strecker = positioned outstretched on its left/right
-orientierung
+### orientierung
 - orientation of the individual (starting from the head)
-blickrichtung
+### blickrichtung
 - the individual's direction of view
-traumata/pathologien
+### traumata/pathologien
 - mentioning of traumata or diseases
-datierung
+### datierung
 - rough dating from the literature
 - Spaetmesolithikum = late Mesolithic; Fruehneolithikum = early Neolithic
-14C
+### 14C
 - BP date with uncertainty, if available
-ocker
+### ocker
 - amount of ocker found in the grave / on the individual burial
 - viel = much; mittel = medium; wenig = few; partiell + = partial + the region of the body; Grabfuellung = pit filling
-bemerkungen
+### bemerkungen
 - diverse commentaries
-fundauffuehurng
+### fundauffuehurng
 - listing of grave good that can be attached to a burial (see other comments!)
 - if there are more than one items of a good it looks like this: 5xwhatever, means 5-time-whatever
 - extra information considering a find/finds can be found in brackets
-grave good categories
+### grave good categories
 - distinguished by function and materials, especially teeth
 
 ## Other comments:
