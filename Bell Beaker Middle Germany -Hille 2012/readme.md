@@ -1,7 +1,9 @@
 # Dataset:
 
+Diverse burial places.
+
 ## Location
-Middle Germany. Diverse burial places.
+Middle Germany.
   
 ## Chonology:
 Endneolithic, Bell Beaker
