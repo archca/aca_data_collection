@@ -1,5 +1,6 @@
 Metadata for the dataset of the cemetery Zvejnieki:
 
+
 Location:
   Zvejnieki, Latvia. Site is located near the Burtnieks lake. 
   GoogleMaps search: Lat59.9655, Lon22.9558
