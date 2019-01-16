@@ -1,0 +1,307 @@
+grab_ID,nekropole_ID,grabbezeichnung,stoerung_grab,anzahl_bestattungen,grabbau_oberird,grabbau_unterird_I,bemerkungen
+1,1,,ungestoert,1,,steinkiste,Fugen mit Ton abgedichtet
+2,2,Grab 37,ungestoert,1,,einfaches_erdgrab,
+3,3,Befund 1287,ungestoert,1,,steinrahmen_reihe_kreis,undefinierte Holzkonstruktion im Grab nachgewiesen (Grabbau?)
+4,3,Befund 1289,ungestoert,1,kreisgraben,einfaches_erdgrab,Durchmesser des Kreisgrabens 2;3m
+5,3,Befund 2345,ungestoert,1,,einfaches_erdgrab,liegt in unmittelbarer Naehe zu einem AK Langhaus
+6,3,Befund 2342,gestoert,1,totenhaus_pfosten,einfaches_erdgrab,liegt in unmittelbarer Naehe zu einem AK Langhaus; Zugehoerigkeit der Pfostensetzungen nicht sicher
+7,4,Grab (50),ungestoert,1,,einfaches_erdgrab,
+8,5,Grab (65),ungestoert,1,,steinkiste,
+9,6,Grab (73),ungestoert,1,,einfaches_erdgrab,
+10,7,Grab (74),ungestoert,1,,steinkiste,Steinkiste NNO-SSW ausgerichtet; keine Deckplatten
+11,8,Grab I,ungestoert,1,,steinkiste,
+12,8,Stelle II,gestoert,1,,steinkiste,
+13,8,Stelle III,gestoert,0,,steinabdeckung,keine Skelettreste vorhanden
+14,8,Stelle IV,ungestoert,1,,steinplatten,
+15,8,Stelle V,gestoert,0,,steinkiste,keine Skelettreste vorhanden
+16,8,Stelle VI,ungestoert,1,,steinkiste,keine Skelettreste vorhanden; Steinkiste N-S ausgerichtet; Zwickelmauerwerk
+17,8,Stelle VII,ungestoert,0,,steinkiste,keine Skelettreste vorhanden; Steinkiste N-S ausgerichtet
+18,9,Grab 1,ungestoert,1,,steinkiste,Steinkitse O-W ausgerichtet
+19,10,Grab (100),ungestoert,1,,steinkiste,Steinkiste N-S ausgerichtet
+20,11,Grab (101),ungestoert,1,,einfaches_erdgrab,
+21,12,Grab 1,ungestoert,1,totenhaus_pfosten,einfaches_erdgrab,Siedlungsreste in der Grabfuellung; schneidet LBK Grab; 7 Pfostengruben um das Grab arrangiert
+22,12,Grab 2,gestoert,1,,einfaches_erdgrab,Siedlungsreste in der Grabfuellung
+23,12,Grab 3,ungestoert,1,,einfaches_erdgrab,Siedlungsreste in der Grabfuellung
+24,12,Grab 4,ungestoert,1,,einfaches_erdgrab,Siedlungsreste in der Grabfuellung
+25,13,Objekt 1,gestoert,1,,einfaches_erdgrab,
+26,13,Objekt 2,ungestoert,1,,einfaches_erdgrab,
+27,13,Objekt 4,ungestoert,1,,einfaches_erdgrab,
+28,13,Objekt 5,ungestoert,1,,einfaches_erdgrab,
+29,13,Objekt 6,ungestoert,1,,einfaches_erdgrab,
+30,13,Objekt 7,ungestoert,1,,einfaches_erdgrab,
+31,13,Objekt 8,gestoert,1,,einfaches_erdgrab,
+32,13,Objekt 14,gestoert,1,,einfaches_erdgrab,
+33,13,Objekt 17,ungestoert,1,,einfaches_erdgrab,
+34,13,Objekt 64,ungestoert,1,,einfaches_erdgrab,
+35,14,Grab 1,ungestoert,1,,einfaches_erdgrab,
+36,14,Grab 2,gestoert,1,,einfaches_erdgrab,
+37,15,Grab (142),ungestoert,1,,einfaches_erdgrab,
+38,16,Grab A,ungestoert,1,,einfaches_erdgrab,
+39,16,Grab B,ungestoert,1,,einfaches_erdgrab,
+40,16,Grab C,ungestoert,1,,einfaches_erdgrab,
+41,17,Grab (148),gestoert,1,,einfaches_erdgrab,praehist. Keramik in Grubenfuellung
+42,18,Grab (149),ungestoert,1,,einfaches_erdgrab,
+43,19,Grab 1/81,ungestoert,1,,einfaches_erdgrab,
+44,19,Grab 2/81,ungestoert,1,,einfaches_erdgrab,
+45,19,Grab 1/82,ungestoert,1,,einfaches_erdgrab,
+46,19,Grab 2/82,ungestoert,1,,einfaches_erdgrab,
+47,19,Grab 4/82,ungestoert,1,,einfaches_erdgrab,
+48,19,Grab 2/83,ungestoert,1,,einfaches_erdgrab,
+49,20,Grab (165),ungestoert,1,,steinkiste,Stufen im Grab (Erdarchitektur Grabbau)
+50,21,Grab (170),ungestoert,1,,einfaches_erdgrab,
+51,22,Befund 202,ungestoert,1,,einfaches_erdgrab,
+52,23,Befund 2,ungestoert,1,,einfaches_erdgrab,
+53,23,Befund 134b,ungestoert,1,,einfaches_erdgrab,stoert ein SK Grab
+54,24,Grab (189),ungestoert,1,huegelnachbestattung,einfaches_erdgrab,stoert ein SK Grab
+55,25,Grab (191),ungestoert,1,,einfaches_erdgrab,
+56,26,Grab 6,ungestoert,1,,einfaches_erdgrab,
+57,26,Grab 7,gestoert,1,,einfaches_erdgrab,Leichenbrand von Steinen umgeben (Nachbestattung?)
+58,27,Grab (193),ungestoert,1,,steinplatten,
+59,28,Grab (198),ungestoert,1,,steinkiste,
+60,29,Grab 1,gestoert,1,,einfaches_erdgrab,
+61,29,Grab 2,ka,1,,einfaches_erdgrab,
+62,29,Grab 3,ungestoert,1,,einfaches_erdgrab,
+63,30,Grab (241),gestoert,1,,einfaches_erdgrab,
+64,31,Grab (254),ungestoert,1,,steinkiste,
+65,32,Grab (256),ungestoert,1,,einfaches_erdgrab,
+66,33,Grab (258),ungestoert,1,,einfaches_erdgrab,
+67,34,Grab (259),ungestoert,1,,steinkiste,
+68,35,Grab 1,ungestoert,1,huegel,steinrahmen_reihe_kreis,unklar; ob Primaergrab
+69,35,Grab 2,ungestoert,1,huegelnachbestattung,einfaches_erdgrab,Grab???
+70,36,Grab 1,ungestoert,1,,einfaches_erdgrab,
+71,36,Grab 2,ungestoert,1,,einzelne_steine,
+72,36,Grab 3,ungestoert,1,,steinplatten,Grab N-S ausgerichtet
+73,36,Grab 4,ungestoert,1,,einfaches_erdgrab,Grab N-S ausgerichtet
+74,36,Grab 5,ungestoert,1,,einfaches_erdgrab,
+75,36,Grab 6,gestoert,1,,einfaches_erdgrab,Grab N-S ausgerichtet
+76,37,Befund 459,ungestoert,1,,einfaches_erdgrab,
+77,37,Befund 5047,ungestoert,1,,einfaches_erdgrab,
+78,37,Befund 5043,gestoert,1,,einfaches_erdgrab,
+79,37,Befund 5045,ungestoert,1,,einfaches_erdgrab,
+80,37,Befund 3811,ungestoert,1,,einfaches_erdgrab,
+81,37,Befund 5034,gestoert,1,,einfaches_erdgrab,
+82,37,Befund 5019,gestoert,1,,einfaches_erdgrab,
+83,38,Grab (293),ungestoert,1,,einfaches_erdgrab,
+84,39,Grab 3,ungestoert,1,,einfaches_erdgrab,Kermik von Baalberg und Schoenfeld in Grabfuellung
+85,39,Grab 4,gestoert,1,,einfaches_erdgrab,von eine Grabhuegel der FBZ/MBZ ueberlagert
+86,39,Grab 5,ungestoert,1,,holzsarg,
+87,39,Grab 6,ungestoert,1,,einfaches_erdgrab,
+88,39,Grab 7,ungestoert,1,,einfaches_erdgrab,ueberlagert Grab der Baalberg-Kultur
+89,39,Grab 8,ungestoert,1,,undefinierte_holzkonstruktion,
+90,39,Grab 11,gestoert,1,,undefinierte_holzkonstruktion,
+91,39,Grab 12,ungestoert,1,,undefinierte_holzkonstruktion,
+92,40,Grab 1,gestoert,1,,einfaches_erdgrab,von eisenztl. Grube gestoert
+93,40,Grab 2,ungestoert,1,,einfaches_erdgrab,ueberlagert Grab 3
+94,40,Grab 3,gestoert,1,,einfaches_erdgrab,von Grab 2 gestoert
+95,40,Grab 4,ungestoert,1,,einfaches_erdgrab,
+96,40,Grab 5,ungestoert,1,,einfaches_erdgrab,
+97,40,Befund 100,ungestoert,1,,steinkiste,
+98,40,Befund 110,ungestoert,1,,einfaches_erdgrab,
+99,40,Befund 111,ungestoert,1,,einfaches_erdgrabeinfaches_erdgrab,
+100,40,Befund 112,gestoert,1,,einfaches_erdgrab,
+101,40,Befund 113,gestoert,1,,einfaches_erdgrab,Raubschacht
+102,40,Befund 117B,gestoert,1,,einfaches_erdgrab,Grab N-S ausgerichtet
+103,40,Befund 138,ungestoert,1,,einfaches_erdgrab,
+104,41,Stelle 2,ungestoert,1,,einfaches_erdgrab,Grab NW-SO ausgerichtet
+105,41,Stelle 3,ungestoert,1,,einfaches_erdgrab,
+106,42,Grab 2,gestoert,1,,einfaches_erdgrab,ueberlagert SK Grab
+107,42,Grab 3,ungestoert,1,,einfaches_erdgrab,
+108,43,Grab 1,ungestoert,1,,einfaches_erdgrab,
+109,43,Grab 2,ungestoert,1,,undefinierte_holzkonstruktion,
+110,43,Grab 3,ungestoert,1,,einfaches_erdgrab,
+111,43,Grab 4,ungestoert,1,,einfaches_erdgrab,
+112,43,Grab 5,ungestoert,1,,einfaches_erdgrab,
+113,43,Grab 6,ungestoert,1,,undefinierte_holzkonstruktion,
+114,43,Grab 7,ungestoert,1,,einfaches_erdgrab,
+115,43,Grab 8,ungestoert,1,,einfaches_erdgrab,Spuren von Feuer am Fuß- und Kopfende der Grabgrube
+116,43,Grab 9,gestoert,1,,einfaches_erdgrab,
+117,43,Grab 10,gestoert,1,,einfaches_erdgrab,
+118,44,Grab 1,gestoert,1,,steinpackung,
+119,44,Grab 2,gestoert,1,,einfaches_erdgrab,
+120,45,Grab (368),gestoert,1,,einfaches_erdgrab,
+121,46,Grab (369),gestoert,1,,einfaches_erdgrab,
+122,47,Grab (370),ungestoert,1,,steinkiste,
+123,48,Grab 1,ungestoert,1,,einfaches_erdgrab,
+124,49,Grab (380),ungestoert,1,,einfaches_erdgrab,
+125,50,Grab (381),gestoert,1,,steinkiste,
+126,51,Grab (388),ungestoert,1,,steinkiste,
+127,52,Grab c,ungestoert,1,,einfaches_erdgrab,
+128,53,Grab d,ungestoert,1,,einfaches_erdgrab,
+129,54,Grab 1,ungestoert,1,,einfaches_erdgrab,
+130,54,Grab 2,ungestoert,1,,einfaches_erdgrab,
+131,55,Grab (398),ungestoert,1,,steinkiste,Fugen mit Ton abgedichtet
+132,56,Grab 1,ungestoert,1,,einfaches_erdgrab,
+133,57,Grab 1,ungestoert,1,,undefinierte_holzkonstruktion,
+134,57,Grab 2,ungestoert,1,,undefinierte_holzkonstruktion,
+135,58,Grab I,ungestoert,1,,steinkiste,
+136,58,Grab II,ungestoert,1,,steinkiste,
+137,59,Grab (428),ungestoert,1,,steinplatten,
+138,60,Grab 1,ungestoert,1,,einfaches_erdgrab,
+139,60,Grab 2,ungestoert,1,,einfaches_erdgrab,
+140,61,Grab (446),ungestoert,1,,einfaches_erdgrab,
+141,62,Grab (447),ungestoert,1,,steinkiste,Grab NNW-SSO ausgerichtet; Fugen mit Ton abgedichtet
+142,63,Grab (448),ungestoert,1,,einfaches_erdgrab,
+143,64,Grab (455),gestoert,1,,steinkiste,
+144,65,Grab (487),ungestoert,1,,einfaches_erdgrab,
+145,66,Grab 1,ungestoert,1,,einfaches_erdgrab,
+146,66,Grab 2,ungestoert,1,,einfaches_erdgrab,
+147,67,Grab (498),ungestoert,1,,einfaches_erdgrab,Scherbe der Schoenfelder-Kultur in Grabfuellung
+148,68,Grab 1,ungestoert,1,,steinplatten,
+149,68,Grab 2,ungestoert,1,,steinplatten,
+150,68,Grab 3,ungestoert,1,,steinplatten,
+151,68,Grab 4,ungestoert,1,,steinkiste,
+152,68,Grab 5,ungestoert,1,,steinkiste,
+153,68,Grab 6,ungestoert,1,,steinabdeckung,nicht geborgen
+154,68,Grab 7,ungestoert,1,,steinkiste,
+155,68,Grab 8,ungestoert,1,,steinabdeckung,
+156,68,Grab 9,ungestoert,1,,steinabdeckung,
+157,68,Grab 10,gestoert,1,,einfaches_erdgrab,ueberlagert Grab 11
+158,68,Grab 11,gestoert,1,,steinabdeckung,Holzkohlereste auf Grabsohle --> Feuer oder Grabbau?
+159,69,Grab (510),ungestoert,1,,steinkiste,
+160,70,Stelle 2,ungestoert,1,,einfaches_erdgrab,Grab N-S ausgerichtet
+161,70,Stelle 3,ungestoert,1,,einfaches_erdgrab,Grab N-S ausgerichtet
+162,70,Stelle 4,ungestoert,1,,einfaches_erdgrab,
+163,70,Stelle 5,ungestoert,1,,einfaches_erdgrab,Grab N-S ausgerichtet
+164,71,Grab (519),ungestoert,1,,steinkiste,Steinkiste N-S ausgerichtet; Muschelschale in oberer Grabfuellung
+165,72,Grab 1,gestoert,1,,einfaches_erdgrab,
+166,72,Grab 2,ungestoert,1,,einfaches_erdgrab,
+167,72,Grab 3,ungestoert,1,,einfaches_erdgrab,
+168,73,Grab (532),ungestoert,1,,einfaches_erdgrab,
+169,74,Grab 1,ungestoert,1,,einfaches_erdgrab,
+170,75,Grab (563),ungestoert,1,,steinkiste,Steinkiste mit Steinpflaster
+171,76,Grab (568),ungestoert,1,,einfaches_erdgrab,Grab fast O-W ausgerichtet
+172,77,Grab 1,ungestoert,1,,steinabdeckung,
+173,77,Grab 2,gestoert,1,,einfaches_erdgrab,kein Angaben zum Grabbau; da zerstoert --> Abdeckung aber nicht unwahrscheinlich
+174,77,Grab 3,gestoert,1,,steinkiste,
+175,77,Grab 4,ungestoert,1,,steinkiste,Steinkiste NW-SO ausgerichtet
+176,77,Grab 5,gestoert,1,,einfaches_erdgrab,
+177,77,Grab 6,gestoert,1,,steinkiste,Steinkiste NNW-SSO ausgerichtet
+178,77,Grab 7,gestoert,1,,holzsarg,
+179,77,Grab 8,ungestoert,1,,steinkiste,Steinkiste N-S ausgerichtet; Fugen mit Ton abgedichtet
+180,77,Grab 9,ungestoert,1,,einfaches_erdgrab,Grab N-S ausgerichtet
+181,77,Grab 10,ungestoert,1,,einfaches_erdgrab,
+182,77,Grab 11,gestoert,1,,einfaches_erdgrab,
+183,77,Grab 12,gestoert,1,,einfaches_erdgrab,
+184,77,Grab 13,ungestoert,1,,steinkiste,Fugen mit Ton abdichten
+185,77,Grab 14,ungestoert,1,,undefinierte_holzkonstruktion,Grab SSO-NNW ausgerichtet
+186,77,Grab 15,ungestoert,1,,einfaches_erdgrab,
+187,77,Grab 16,ungestoert,1,,undefinierte_holzkonstruktion,Grab NNW-SSO ausgerichtet; Erdarchitektur im Grabbau (Stufen)
+188,77,Grab 17,ungestoert,1,,steinabdeckung,Grab ONO-SWS ausgerichtet
+189,78,Grab (596),ungestoert,1,,einfaches_erdgrab,
+190,79,Grab (597),ungestoert,1,,einfaches_erdgrab,
+191,80,Grab (598),ungestoert,1,,einfaches_erdgrab,
+192,81,Befund 12,ungestoert,1,,einfaches_erdgrab,Grab NO-SW ausgerichtet; Keramikfragmente; Flint und Tierknochen in Grubenfuellung
+193,81,Befund 14,gestoert,1,,einfaches_erdgrab,
+194,81,Befund 10,ungestoert,1,,einfaches_erdgrab,liegt ueber Befund 10a
+195,81,Befund 10a,ungestoert,1,,einfaches_erdgrab,liegt unter Befund 10
+196,81,Befund 32,ungestoert,1,,einfaches_erdgrab,ca. 40m suedl. von der Graebergruppe entfernt; Tierknochen und Silex in der Grubenfuellung
+197,82,Grab (623),ungestoert,1,,steinabdeckung,
+198,83,Befund 97,ungestoert,1,,einfaches_erdgrab,
+199,83,Befund 96,ungestoert,1,,einfaches_erdgrab,Scherbe in Grabfuellung
+200,83,Befund 112,gestoert,1,,einfaches_erdgrab,
+201,83,Befund 148,ungestoert,1,,einfaches_erdgrab,groeßere Steine im Umfeld des Grabes
+202,84,Grab 1,ungestoert,1,,steinkiste,
+203,84,Grab 2,ungestoert,1,,steinkiste,Steinkiste mit Steinpflaster
+204,85,Grab 1,ungestoert,1,,einfaches_erdgrab,weiße Tonschicht (10-20cm) ueber dem Skelett
+205,85,Grab 2,ungestoert,1,,einfaches_erdgrab,
+206,85,Grab 3,ungestoert,1,,einfaches_erdgrab,
+207,85,Grab 4,ungestoert,1,,einfaches_erdgrab,
+208,85,Grab 5,ungestoert,1,,einzelne_steine,
+209,85,Grab 6,ungestoert,1,,einfaches_erdgrab,
+210,85,Grab 7,ungestoert,1,,einfaches_erdgrab,
+211,85,Grab 8,gestoert,1,,einfaches_erdgrab,
+212,86,Grab 1,ungestoert,1,,steinpackung,
+213,86,Grab 2,ungestoert,1,,steinpackung,
+214,86,Grab 3,ungestoert,1,,einfaches_erdgrab,
+215,87,Befund 16,ungestoert,1,,einfaches_erdgrab,
+216,87,Befund 20,ungestoert,1,,einfaches_erdgrab,
+217,87,Befund 22,ungestoert,1,,einfaches_erdgrab,
+218,87,Befund 32,ungestoert,1,,einfaches_erdgrab,
+219,88,Grab 2/88,ungestoert,1,,einfaches_erdgrab,Scherben in Grubenfuellung
+220,88,Grab 3/88,gestoert,1,,einfaches_erdgrab,
+221,89,Befund 5439,ungestoert,1,,einfaches_erdgrab,Grab NNO-SSW ausgerichtet
+222,90,Grab (689),ungestoert,1,,steinkiste,Steinkiste N-S ausgerichtet
+223,91,Grab 1,ungestoert,1,,einfaches_erdgrab,
+224,91,Grab 2,ungestoert,1,,einfaches_erdgrab,
+225,91,Grab 4,ungestoert,1,,einfaches_erdgrab,
+226,91,Grab 5,ungestoert,1,,einfaches_erdgrab,
+227,92,Grab (698),ungestoert,1,,einfaches_erdgrab,
+228,93,Grab (705),ungestoert,1,,steinkiste,Holzkonstruktion unklar
+229,94,Grab (709),ungestoert,1,,einfaches_erdgrab,
+230,95,Grab (710),ungestoert,1,,einfaches_erdgrab,
+231,96,Grab 1,ungestoert,1,,einfaches_erdgrab,
+232,96,Grab 4,ungestoert,1,,einfaches_erdgrab,
+233,96,Grab 5,gestoert,1,,einfaches_erdgrab,
+234,97,Grab (729),ungestoert,1,,steinkiste,
+235,98,Grab (732),ungestoert,1,kreisgraben,einfaches_erdgrab,3;7m Durchmesser; 0;6m Breit; 0;12m Tief; Graben durch eine Grube gestoert
+236,99,Grab (735),ungestoert,1,,einfaches_erdgrab,stoert darunter liegendes SK Grab
+237,100,Grab 1,ungestoert,1,,einfaches_erdgrab,
+238,100,Grab 2,gestoert,1,,einfaches_erdgrab,
+239,101,Grab 7,ungestoert,1,,einfaches_erdgrab,
+240,101,Grab 9/01,ungestoert,1,,einfaches_erdgrab,
+241,101,Grab 2/01,ungestoert,1,,einfaches_erdgrab,
+242,101,Grab 3/01,ungestoert,1,,einfaches_erdgrab,Funde in Grubenfuellung
+243,101,Grab 4/01,ungestoert,1,,einfaches_erdgrab,
+244,101,Grab 6/01,ungestoert,1,,einzelne_steine,
+245,101,Befund 22/01,ungestoert,1,,einfaches_erdgrab,Silex in Grubenfuellung
+246,102,Befund 103,ungestoert,1,,einfaches_erdgrab,
+247,102,Befund 98,ungestoert,1,,einfaches_erdgrab,
+248,103,Grab (1124),ungestoert,1,,einfaches_erdgrab,Grab NW-SO ausgerichtet
+249,104,Grab 1,ungestoert,1,,einfaches_erdgrab,
+250,104,Grab 2,ungestoert,1,,einfaches_erdgrab,
+251,105,Grab (1159),gestoert,1,,einfaches_erdgrab,
+252,106,Grab (1178),ungestoert,1,,einfaches_erdgrab,
+253,107,Grab (1179),ungestoert,1,,undefinierte_holzkonstruktion,
+254,108,Grab (780),ungestoert,1,,steinabdeckung,Grab NNW-SSO ausgerichtet
+255,109,Grab (796),ungestoert,1,,einfaches_erdgrab,
+256,110,Grab (809),ungestoert,1,,einfaches_erdgrab,
+257,111,Grab 1,gestoert,1,,einfaches_erdgrab,
+258,111,Grab 2,gestoert,1,,einfaches_erdgrab,
+259,111,Grab 3,gestoert,1,,einfaches_erdgrab,
+260,112,Grab (813),ungestoert,1,,einfaches_erdgrab,
+261,113,Grab (815),ungestoert,1,,einfaches_erdgrab,
+262,114,Grab (821),gestoert,1,,einfaches_erdgrab,
+263,115,Grab (822),ungestoert,1,,einfaches_erdgrab,
+264,116,Grab (828),ungestoert,1,,einfaches_erdgrab,
+265,117,Grab (850),ungestoert,1,,einfaches_erdgrab,Scherben; Tierknochen und Flintgeraet in der Grubenfuellung
+266,118,Grab (869),gestoert,1,,einfaches_erdgrab,durch Tiergaenge gestoert
+267,119,Grab (880),ungestoert,1,,einfaches_erdgrab,Grab N-S ausgrichtet
+268,120,Grab (893),ungestoert,1,,steinkiste,
+269,120,Grab (894),ungestoert,1,,steinkiste,
+270,120,Grab (895),ungestoert,1,,steinabdeckung,
+271,121,Grab (907),ungestoert,1,,einfaches_erdgrab,Grab N-S ausgerichtet
+272,122,Grab (914),ungestoert,1,,einfaches_erdgrab,
+273,123,Grab 11,ungestoert,1,,einfaches_erdgrab,
+274,123,Grab 12,ungestoert,1,,einfaches_erdgrab,
+275,123,Grab 13,ungestoert,1,,einfaches_erdgrab,Grab N-S ausgerichtet
+276,123,Grab 14,ungestoert,1,,einfaches_erdgrab,Grab NNO-SSW ausgerichtet
+277,123,Grab 15,ungestoert,1,,undefinierte_holzkonstruktion,
+278,123,Grab 16,ungestoert,1,,einfaches_erdgrab,
+279,123,Grab 19,gestoert,1,,einfaches_erdgrab,
+280,124,Grab 1,gestoert,1,,einfaches_erdgrab,
+281,124,Grab 2,ungestoert,1,,einfaches_erdgrab,
+282,124,Grab 3,ungestoert,1,,einfaches_erdgrab,
+283,125,Grab (986),ungestoert,1,,einfaches_erdgrab,
+284,126,Grab 8 (6/1956),ungestoert,1,,einfaches_erdgrab,
+285,127,Grab (1053),ungestoert,1,,einfaches_erdgrab,
+286,128,Grab (1055),ungestoert,1,,einfaches_erdgrab,
+287,129,Grab I,gestoert,1,,einfaches_erdgrab,
+288,129,Grab II,ungestoert,1,,einfaches_erdgrab,
+289,129,Grab III,ungestoert,1,,einfaches_erdgrab,
+290,130,Grab 1,ungestoert,1,,einfaches_erdgrab,
+291,130,Grab 2,gestoert,1,,einfaches_erdgrabeinfaches_erdgrab,
+292,131,Grab (562),gestoert,1,,steinkiste,
+293,132,Befund 24,ungestoert,1,,einfaches_erdgrab,
+294,132,Befund 26,ungestoert,1,,einfaches_erdgrab,
+295,132,Befund 28,gestoert,1,,einfaches_erdgrab,alt beraubt
+296,132,Befund 30,ungestoert,1,,einfaches_erdgrab,
+297,132,Befund 32,ungestoert,1,,einfaches_erdgrab,
+298,132,Befund 34,gestoert,1,,steinrahmen_reihe_kreis,wahrscheinlich ist die Grabeinfassung gestoert
+299,132,Befund 29 a/b,ungestoert,2,,einfaches_erdgrab,Bestattete beruehren sich mit den Fueßen; Beigaben sind den Bestattungen nicht klar zuortbar --> Hille geht davon aus; dass der rechte Hocker die Pfeilspitzen besaß --> mMn sehr unsicher!
+300,133,Grab 1/2,ungestoert,2,,einfaches_erdgrab,Grab nicht vollstaendig ergraben (Bestattung 302 nicht zur Gaenze erfasst)
+301,134,Befund 230,ungestoert,1,,einfaches_erdgrab,Skelettreste aus der Grabfuellung (maennl./fruehadult; infans I)
+302,134,Befund 241,ungestoert,1,,einfaches_erdgrab,
+303,134,Befund 240,ungestoert,1,,einfaches_erdgrab,
+304,135,Grab (1157),ungestoert,2,,einfaches_erdgrab,Skelett eines Neugeborenen im Grab verteilt --> wirkliche Bestattung?
+305,136,Grab (257),ungestoert,2,,steinkiste,Skelett eines Kindes am Fußende der erwachsenen Bestattung; Abschlaege in Grabfuellung
+306,137,Grab (272),ungestoert,2,,einfaches_erdgrab,"""Kinderskelett"" hinter Frauenskelett"
