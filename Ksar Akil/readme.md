@@ -1,21 +1,19 @@
 # Dataset:
-
-Diverse burial places.
+Ksar Akil Palaeolithic stone tool assemblages
 
 ## Location
-Middle Germany.
+Libanon
   
 ## Chonology:
-Endneolithic, Bell Beaker
+Palaeolithic
 
 ## Source/Literature:
-- Hille 2012: A. Hille, Die Glockenbecherkultur in Mitteldeutschland. Veröffentlichungen des Landesamtes für Denkmalpflege und Archäologie Sachsen-Anhalt – Landesmuseum für Vorgeschichte 66 (Halle 2012).
+- Doran, J. E. and Hodson, F. R. 1975: Mathematics and Computers in Archaeology
+. Edinburgh: Edinburgh University Press.
 
 ## Licence:
-tbd
 
 ## Explaining abbreviations and categories/Changes in respect to original source:
-check metadata file 
 
 ## Other comments:
-table relations: Tab1 <- 1:n -> Tab2 <- 1:n -> Tab3
+
