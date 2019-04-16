@@ -15,7 +15,7 @@ When you click the **Knit** button a document will be generated that includes bo
 
 ```{r}
 #ternary diagram with dots
-Ksar <- read.csv("KsarAkil.csv")
+Ksar <- read.csv("../Ksar Akil/KsarAkil.csv")
 library(ggplot2);library(grid); library(ggtern)
 
 ggtern(data=Ksar[,1:4],aes(Cores, Blanks, Tools, label=Levels)) +
